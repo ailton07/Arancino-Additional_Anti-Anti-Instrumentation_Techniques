@@ -1,4 +1,36 @@
-# Arancino
+
+# Arancino + Some Anti-Anti-Instrumentation Techniques
+
+This project intends to be a PoC and serves as a foundation and model for the implementation of new mitigation techniques developed at the Federal University of Amazonas (UFAM).
+
+Original project:  [https://github.com/necst/arancino](https://github.com/necst/arancino)
+
+Originals authors:
+
+- Mario Polino 
+- Andrea Continella 
+- Stefano D’Alessio 
+- Lorenzo Fontana
+- Fabio Gritti 
+- Sebastiano Mariani
+- Stefano Zanero
+------
+
+Below is the original README of Arancino and other instructions, after the Updates..
+
+## Updates
+
+* Mitigation of Pin Detection by TLS (Thread Local Storage):
+src\PINdemonium\HookFunctions.cpp
+
+
+
+
+
+
+
+
+# Arancino (Original README)
 
 Arancino is dynamic protection framework that can be used to defend Intel Pin against anti-instrumentation attacks.
 Arancino is a research project developed at [NECSTLab](http://necst.it).

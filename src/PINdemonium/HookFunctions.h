@@ -13,6 +13,7 @@
 #define ISDEBUGGERPRESENT_INDEX 4
 #define RTLREALLOCATEHEAP_INDEX 5
 */
+#define TLSGETVALUE_INDEX 6
 
 class HookFunctions
 {
