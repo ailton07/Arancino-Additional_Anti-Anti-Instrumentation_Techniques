@@ -24,7 +24,11 @@ Below is the original README of Arancino and other instructions, after the Updat
 src\PINdemonium\HookFunctions.cpp
 
 
-
+## Fails to build
+```
+LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+```
+Solution: https://stackoverflow.com/a/32283599/5398850
 
 
 
